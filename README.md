@@ -1,6 +1,6 @@
 # Execicios JPA-Hibernate
 
-Este repositório contém uma série de exercícios práticos para aprender e aprimorar seus conhecimentos em JPA (Java Persistence API) e Hibernate.
+Este repositório contém uma série de exercícios práticos que realizei para aprender e aprimorar meus conhecimentos em JPA (Java Persistence API) e Hibernate.
 Os exercícios abrangem diversos tópicos relacionados a padrões de persistência, ORM (Object-Relational Mapping), entidades, DAO (Data Access Object), queries e herança.
 
 ### Exercícios
